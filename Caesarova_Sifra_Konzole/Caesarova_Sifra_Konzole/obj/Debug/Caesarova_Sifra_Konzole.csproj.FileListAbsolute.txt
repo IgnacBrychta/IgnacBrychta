@@ -1,0 +1,7 @@
+C:\Users\orbit\source\repos\Caesarova_Sifra_Konzole\Caesarova_Sifra_Konzole\bin\Debug\Caesarova_Sifra_Konzole.exe.config
+C:\Users\orbit\source\repos\Caesarova_Sifra_Konzole\Caesarova_Sifra_Konzole\bin\Debug\Caesarova_Sifra_Konzole.exe
+C:\Users\orbit\source\repos\Caesarova_Sifra_Konzole\Caesarova_Sifra_Konzole\bin\Debug\Caesarova_Sifra_Konzole.pdb
+C:\Users\orbit\source\repos\Caesarova_Sifra_Konzole\Caesarova_Sifra_Konzole\obj\Debug\Caesarova_Sifra_Konzole.csproj.AssemblyReference.cache
+C:\Users\orbit\source\repos\Caesarova_Sifra_Konzole\Caesarova_Sifra_Konzole\obj\Debug\Caesarova_Sifra_Konzole.csproj.CoreCompileInputs.cache
+C:\Users\orbit\source\repos\Caesarova_Sifra_Konzole\Caesarova_Sifra_Konzole\obj\Debug\Caesarova_Sifra_Konzole.exe
+C:\Users\orbit\source\repos\Caesarova_Sifra_Konzole\Caesarova_Sifra_Konzole\obj\Debug\Caesarova_Sifra_Konzole.pdb

@@ -1,0 +1,7 @@
+C:\Users\orbit\source\repos\Heslo_Konzole\Heslo_Konzole\bin\Debug\Heslo_Konzole.exe.config
+C:\Users\orbit\source\repos\Heslo_Konzole\Heslo_Konzole\bin\Debug\Heslo_Konzole.exe
+C:\Users\orbit\source\repos\Heslo_Konzole\Heslo_Konzole\bin\Debug\Heslo_Konzole.pdb
+C:\Users\orbit\source\repos\Heslo_Konzole\Heslo_Konzole\obj\Debug\Heslo_Konzole.csproj.AssemblyReference.cache
+C:\Users\orbit\source\repos\Heslo_Konzole\Heslo_Konzole\obj\Debug\Heslo_Konzole.csproj.CoreCompileInputs.cache
+C:\Users\orbit\source\repos\Heslo_Konzole\Heslo_Konzole\obj\Debug\Heslo_Konzole.exe
+C:\Users\orbit\source\repos\Heslo_Konzole\Heslo_Konzole\obj\Debug\Heslo_Konzole.pdb

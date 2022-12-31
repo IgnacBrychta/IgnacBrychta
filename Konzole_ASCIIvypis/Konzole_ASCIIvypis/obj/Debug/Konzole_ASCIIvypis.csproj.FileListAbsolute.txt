@@ -1,7 +1,0 @@
-C:\Users\orbit\source\repos\Konzole_ASCIIvypis\Konzole_ASCIIvypis\bin\Debug\Konzole_ASCIIvypis.exe.config
-C:\Users\orbit\source\repos\Konzole_ASCIIvypis\Konzole_ASCIIvypis\bin\Debug\Konzole_ASCIIvypis.exe
-C:\Users\orbit\source\repos\Konzole_ASCIIvypis\Konzole_ASCIIvypis\bin\Debug\Konzole_ASCIIvypis.pdb
-C:\Users\orbit\source\repos\Konzole_ASCIIvypis\Konzole_ASCIIvypis\obj\Debug\Konzole_ASCIIvypis.csproj.AssemblyReference.cache
-C:\Users\orbit\source\repos\Konzole_ASCIIvypis\Konzole_ASCIIvypis\obj\Debug\Konzole_ASCIIvypis.csproj.CoreCompileInputs.cache
-C:\Users\orbit\source\repos\Konzole_ASCIIvypis\Konzole_ASCIIvypis\obj\Debug\Konzole_ASCIIvypis.exe
-C:\Users\orbit\source\repos\Konzole_ASCIIvypis\Konzole_ASCIIvypis\obj\Debug\Konzole_ASCIIvypis.pdb

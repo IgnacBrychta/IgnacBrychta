@@ -1,7 +1,0 @@
-C:\Users\orbit\source\repos\EdHouse_Staz_Prijimaci_Ukol\EdHouse_Staz\bin\Debug\EdHouse_Staz.exe.config
-C:\Users\orbit\source\repos\EdHouse_Staz_Prijimaci_Ukol\EdHouse_Staz\bin\Debug\EdHouse_Staz.exe
-C:\Users\orbit\source\repos\EdHouse_Staz_Prijimaci_Ukol\EdHouse_Staz\bin\Debug\EdHouse_Staz.pdb
-C:\Users\orbit\source\repos\EdHouse_Staz_Prijimaci_Ukol\EdHouse_Staz\obj\Debug\EdHouse_Staz.csproj.AssemblyReference.cache
-C:\Users\orbit\source\repos\EdHouse_Staz_Prijimaci_Ukol\EdHouse_Staz\obj\Debug\EdHouse_Staz.csproj.CoreCompileInputs.cache
-C:\Users\orbit\source\repos\EdHouse_Staz_Prijimaci_Ukol\EdHouse_Staz\obj\Debug\EdHouse_Staz.exe
-C:\Users\orbit\source\repos\EdHouse_Staz_Prijimaci_Ukol\EdHouse_Staz\obj\Debug\EdHouse_Staz.pdb

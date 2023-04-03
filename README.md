@@ -2,13 +2,13 @@
 Welcome to my Github profile! My name is **Ignác Brychta** and I'm a **student** based in **Zlín**. I'm passionate about **Computer Programming**, and I love using Github to share my projects and collaborate with others.
 
 # About Me
-🔭 I’m currently working on **[Ignácovy šachy][winformschess]**.
-🌱 I’m currently learning **Computer Science**.
-👯 I’m looking to collaborate on **Algorithms**.
-💬 Ask me about **CS, Arduino or Rubik's Cubes**.
-📫 How to reach me: **[Discord][discord-link]**.
-😄 Pronouns: **He/Him**.
-⚡ Fun fact: **I can solve a Rubik's cube of any size**.
+- 🔭 I’m currently working on **[Ignácovy šachy][winformschess]**.
+- 🌱 I’m currently learning **Computer Science**.
+- 👯 I’m looking to collaborate on **Algorithms**.
+- 💬 Ask me about **CS, Arduino or Rubik's Cubes**.
+- 📫 How to reach me: **[Discord][discord-link]**.
+- 😄 Pronouns: **He/Him**.
+- ⚡ Fun fact: **I can solve a Rubik's cube of any size**.
 
 # My Projects
 Here are some of my favorite projects that I've worked on:

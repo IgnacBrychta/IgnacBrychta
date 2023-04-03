@@ -23,9 +23,10 @@ Here are some of my favorite projects that I've worked on:
  And many more...
 
 # My Skills
-Skill 1: I can solve a Rubik's cube of any size
-Skill 2: I'm decent at programming
-Skill 3: I know Czech, English and German
+1. I can solve a Rubik's cube of any size
+2. I'm decent at programming
+3. I know Czech, English and German
+4. I'm a decent programmer who focuses on OOP
 # Blog
 Unfortunately, I do not have a blog at the moment, but I might consider starting one some day
 

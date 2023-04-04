@@ -15,7 +15,7 @@ Here are some of my favorite projects that I've worked on:
 
 First Project: Chess#
 - Chess GUI in Windows Forms.
-- Link: [Chess#](https://github.com/IgnacBrychta/WindowsFormsChess)
+- Link: [Chess#](https://github.com/IgnacBrychta/WindowsFormsChess)<br><\br>
 Second Project: Maze Generation and A* Pathfinding
  - This demo can generate a maze and find the shortest path between any two points in the maze.
  - Link: [A* Algorithm](https://github.com/IgnacBrychta/AStar-Algorithm-and-Recursive-Backtracking-Demo)

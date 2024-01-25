@@ -28,8 +28,6 @@ Second Project: Maze Generation and A* Pathfinding
 2. I'm decent at programming
 3. I know Czech, English and German
 4. I'm a decent programmer who focuses on OOP
-# Blog
-Unfortunately, I do not have a blog at the moment, but I might consider starting one some day
 
 # End
 Thanks for stopping by my Github profile. Have a great day! 😊

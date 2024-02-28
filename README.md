@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ignacbrychta" alt="ignacbrychta" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/portfolio-ignace-brychty/domovsk%C3%A1-str%C3%A1nka](https://sites.google.com/view/portfolio-ignace-brychty/domovsk%C3%A1-str%C3%A1nka)
+- 👨‍💻 All of my projects are available at [Google Sites](https://sites.google.com/view/portfolio-ignace-brychty/domovsk%C3%A1-str%C3%A1nka)
 
 - 💬 Ask me about **C#, SQL & Structured Text**
 

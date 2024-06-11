@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ignacbrychta&label=Profile%20views&color=0e75b6&style=flat" alt="ignacbrychta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ignacbrychta" alt="ignacbrychta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ignacbrychta&theme=radical" alt="ignacbrychta" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Google Sites](https://sites.google.com/view/portfolio-ignace-brychty/domovsk%C3%A1-str%C3%A1nka)
 
